@@ -39,12 +39,6 @@
 
 ###
 
-<img align="right" height="200" src="https://asia.sega.com/metaphor/cht/resources/img/top/story_character_d357b51c8b89b959e6c44a01f7e75183.png"  />
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=400&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=random"  />
-</div>
+<img align="right" height="500" src="https://asia.sega.com/metaphor/cht/resources/img/top/story_character_d357b51c8b89b959e6c44a01f7e75183.png"  />
 
 ###
