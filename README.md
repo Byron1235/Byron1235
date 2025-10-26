@@ -38,3 +38,7 @@
 </div>
 
 ###
+
+<img align="right" height="200" src="https://asia.sega.com/metaphor/cht/resources/img/top/story_character_d357b51c8b89b959e6c44a01f7e75183.png"  />
+
+###
