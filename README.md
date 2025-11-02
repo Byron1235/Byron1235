@@ -6,6 +6,12 @@
 
 <h3 align="center">Byron Troncoso Ortega (Nasuka)</h3>
 
+<div align="center">
+  <a href="https://byron1235.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Web-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
 ###
 
 <div align="center">
