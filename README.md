@@ -17,7 +17,7 @@
   <a href="https://byron1235.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-7C3AED?style=for-the-badge&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/byron-troncoso-50b60526a/" target="_blank">
+  <a href="https://www.linkedin.com/in/byron-t-50b60526a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.getonbrd.com/p/byron-troncoso-ortega" target="_blank">
