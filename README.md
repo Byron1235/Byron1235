@@ -5,10 +5,9 @@
 ###
 
 <h1 align="center">👋 Byron Troncoso Ortega</h1>
-<h3 align="center">Full Stack Developer | Python • JavaScript • Electron</h3>
-
+<h3 align="center">Full Stack Developer | Python • TypeScript • Kotlin</h3>
 <p align="center">
-  <em>Construyendo aplicaciones que resuelven problemas reales, desde microservicios hasta apps de escritorio</em>
+  <em>Construyendo productos completos: desde APIs y microservicios hasta apps móviles y web</em>
 </p>
 
 ###
@@ -33,14 +32,29 @@
 <tr>
 <td width="50%">
 
-### 📱 NFurgonApp
-**Sistema de Transporte Escolar**
-- App móvil Android (Kotlin)
-- Firebase (Auth, DB, Storage)
-- Geolocalización en tiempo real
-- Conecta padres, colegios y conductores
+### 📱 N-Furgón
+**Plataforma de Transporte Escolar**
+- Android (Kotlin) · Multi-módulo
+- Firebase Realtime DB · Auth · FCM
+- Geolocalización en tiempo real con Google Maps API
+- 3 clientes: conductor, apoderado y panel web admin
+- Desplegado y demostrado en producción
+
+[Repo conductor](https://github.com/Byron1235/nfurgonapp) · [Repo tutor](https://github.com/Jose073/nfurgonTutor)
 
 </td>
+<td width="50%">
+
+### 🛒 bazark12
+**Sistema POS y Gestión de Inventario**
+- App de escritorio (Electron)
+- Web HID API · SQLite · Flask · Angular
+- Integración con lector de código de barras
+- Gestión offline + sincronización
+
+</td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 📚 CRA
@@ -49,18 +63,6 @@
 - Sistema de préstamos y devoluciones
 - Catálogo digital
 - App de escritorio multiplataforma
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🛒 bazark12
-**Ecommerce Completo**
-- App web + escritorio (Electron)
-- Gestión offline
-- JavaScript full stack
 
 </td>
 <td width="50%">
@@ -80,18 +82,21 @@
 ## 💻 Tech Stack
 
 <div align="center">
-  
+
 ### Backend
-<img src="https://skillicons.dev/icons?i=py,django,nodejs,express" height="40" alt="backend stack"  />
+<img src="https://skillicons.dev/icons?i=py,flask,nodejs,express,nestjs" height="40" alt="backend stack"  />
 
 ### Frontend & Desktop
-<img src="https://skillicons.dev/icons?i=js,ts,electron,html,css,tailwind" height="40" alt="frontend stack"  />
+<img src="https://skillicons.dev/icons?i=react,ts,js,electron,html,css,tailwind" height="40" alt="frontend stack"  />
 
 ### Mobile
 <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase" height="40" alt="mobile stack"  />
 
-### Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,notion" height="40" alt="tools stack"  />
+### Databases & Cloud
+<img src="https://skillicons.dev/icons?i=postgresql,sqlite,aws,docker" height="40" alt="databases stack"  />
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" height="40" alt="tools stack"  />
 
 </div>
 
@@ -103,7 +108,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Byron1235&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Byron1235&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="170" alt="languages graph"  />
 </div>
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Byron1235&theme=github_dark&hide_border=true&border_radius=5" height="170" alt="streak graph"  />
 </div>
@@ -112,10 +116,10 @@
 
 ## 🎯 Actualmente
 
-- 🔨 Trabajando en arquitecturas de microservicios
-- 📱 Desarrollando apps multiplataforma
-- 🐧 Explorando más de Linux y contenedores
-- 🌱 Aprendiendo siempre algo nuevo
+- 🔨 Aplicando a roles full-stack y backend con React · TypeScript · Node.js · PostgreSQL
+- 📱 Profundizando en arquitecturas cloud con AWS y Docker
+- 🌱 Explorando GraphQL y NestJS
+- 🐧 Mejorando flujos de trabajo con Linux y contenedores
 
 ###
 
